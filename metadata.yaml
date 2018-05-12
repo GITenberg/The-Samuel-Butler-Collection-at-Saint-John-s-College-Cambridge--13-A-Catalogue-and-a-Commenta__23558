@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '1080'
     url: http://www.gutenberg.org/2009/agents/1080
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23558#The-Samuel-Butler-Collection-at-Saint-John-s-College-Cambridge--13-A-Catalogue-and-a-Commenta_
 gutenberg_issued: '2007-11-20'
 gutenberg_type: Text
 identifiers:
