@@ -1,0 +1,34 @@
+_repo: The-Samuel-Butler-Collection-at-Saint-John-s-College-Cambridge--13-A-Catalogue-and-a-Commenta__23558
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Bartholomew, A. T. (Augustus Theodore)
+    alias: Bartholomew, Augustus Theodore
+    birthdate: 1882
+    deathdate: 1933
+    gutenberg_agent_id: '26218'
+    url: http://www.gutenberg.org/2009/agents/26218
+  - agent_name: Jones, Henry Festing
+    birthdate: 1851
+    deathdate: 1928
+    gutenberg_agent_id: '1080'
+    url: http://www.gutenberg.org/2009/agents/1080
+description: ''
+gutenberg_issued: '2007-11-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23558'
+  lccn: '22011286'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Butler, Samuel, 1835-1902 -- Bibliography'
+title: "The Samuel Butler Collection at Saint John's College, Cambridge\r\nA Catalogue\
+  \ and a Commentary"
+url: http://www.gutenberg.org/ebooks/23558
